@@ -55,26 +55,22 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
-
 ---
 
 ## TABULATION
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 03 PM" src="https://github.com/user-attachments/assets/d63a5306-77a4-4605-8842-436142d3b6e4" />
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V)  | FREQUENCY (Hz) |
-| ------- | ---------------------- | -------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical:** |                |
-|         |                        | **Emax =**     |                |
-|         |                        | **Emin =**     |                |
-| **4**   | **Demodulated Signal** | **Practical:** |                |
+## PROGRAM
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 12 PM" src="https://github.com/user-attachments/assets/5993dc1d-6d84-436e-9d7d-e2670d1ee691" />
 
----
+## GRAPH
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 19 PM" src="https://github.com/user-attachments/assets/3b00937a-4111-47fa-9aa1-86277d0901bf" />
 
-## MODEL GRAPH
+## RESULT
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 26 PM" src="https://github.com/user-attachments/assets/569ec2c8-ea0a-4300-9ffa-1fff13d2cd7e" />
 
-**Practical**
+## MARK ALLOCATION
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 32 PM" src="https://github.com/user-attachments/assets/22635156-75bd-42be-bf27-b28a33baf42e" />
+
 
 ---
